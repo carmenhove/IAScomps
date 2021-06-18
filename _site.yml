@@ -1,10 +1,10 @@
-name: "MyLabJournal"
+name: "UCSB IAS Comps"
 navbar:
-  title: "MyLabJournal"
+  title: "UCSB IAS Comps"
   left:
-    - text: "Home"
+    - text: "Contributors"
       href: index.html
-    - text: "Journal"
+    - text: "Study Tips"
       href: Journal.html
     - text: "Links"
       href: Links.html
