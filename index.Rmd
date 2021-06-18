@@ -19,23 +19,36 @@ output: html_document
 
 # **Contributors**
 
-The past (and present, as of 2021) graduate students listed below have contributed resources so that those who follow may benefit from previous triumphs and mistakes! 
+The past and present graduate students listed below have contributed resources so that those who follow may benefit from previous triumphs and mistakes! Website last updated: `r Sys.Date()`.
 
 ## Carmen Hove
-
-Graduated 2021
-Email: carmenhove@ucsb.edu
-GitHub: carmenhove
-
+Website Manager\
+UCSB tenture: 2015-Present\
+Email: carmenhove@ucsb.edu \
+GitHub: carmenhove\  
+Comps Topics: Developmental Origins of Human Health & Disease | Human Reproductive Ecology | Human-Pathogen Co-Evolution
+ 
 ## Angela Garcia 
-Graduated 2018
+UCSB tenure: 2013-2018\
+Email: garsmol@gmail.com\
+Comps Topics: Stress, Immune Function and Inequality | Evolutionary Medicine/Human Biology | Human Behavioral Ecology/Life History Theory 
 
-</div>
-<div class="col-sm-6">
+## Ronnie Bailey-Steinitz
+UCSB tenure: 2016-Present\
+Email: rsteinitz@ucsb.edu\
+Comps Topics: Primate Energetics / Endocrinology | Evolutionary adaptations to seasonal and prolonged nutritional stress | Primate Behavioral & Community Ecology
 
-### [Integrative Anthropological Sciences](https://www.anth.ucsb.edu/research/ias)
+## Melanie Martin
+UCSB tenure: 2008-2015\
+Email: martinm7@uw.edu\
+Comps Topics: Biosocial evolution | Culture | Human Behavioral Ecology | Health and Disease | Life History Theory | Human Reproduction
 
-<a href = "https://www.physics.ucsb.edu/sites/secure.lsit.ucsb.edu.phys.d7/themes/at_lsit/images/department/ucsbwave-blue.png">
-![](images/logo.png)
-</a>
-</div>
+## Tiffany Pan
+UCSB tenure: 2019-Present (comps taken at UW)\
+Email: tdpan@ucsb.edu\
+Comps Topics: Demographic and Epidemiological Transition | Evolutionary Medicine | Life History Theory | Population Genetics
+
+## Amy Anderson
+UCSB tenure: 2015-Present\
+Email: anderson.amy.susan@gmail.com\
+Comps Topics: Host-pathogen co-evolution | Demographic (Neolithic) transition | Developmental Origins and Human Health and Disease

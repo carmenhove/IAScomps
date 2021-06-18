@@ -3,11 +3,31 @@ title: "Links"
 output: html_document
 ---
 
+### Condensed Google Drive 
+
+[Google drive](https://drive.google.com/drive/folders/1VQb08giIrpIorq6gPSU0ClqyZaIxup_m?usp=sharing) for all shared files, organized by contributor. 
+
 ### Mendeley 
 
 [Mendeley](https://www.mendeley.com) is a free citation and PDF organizer. Create an account and download Mendeley for desktop. See [here](https://www.mendeley.com/guides/using-citation-editor) for how to get started []().
 
 ### Concept maps
 
-1. Use concept maps. 
+Use concept maps. Check out Carmen's [blog](https://theinformalscientist.com/concept-maps-and-the-path-to-deep-learning/) on this topic. 
 
+
+### Quick Links to Recommended Books
+[Evolution in Four Dimensions](https://mitpress.mit.edu/books/evolution-four-dimensions) by Eva Jablonka and Marion Lamb
+
+[The Selfish Gene](https://global.oup.com/academic/product/the-selfish-gene-9780198788607?cc=us&lang=en&) by Richard Dawkins
+
+[The Extended Phenotype](https://global.oup.com/academic/product/the-extended-phenotype-9780198788911?q=extended%20phenotype&lang=en&cc=us) by Richard Dawkins
+
+[Why We Get Sick: The New Science of Darwinian Medicine](https://www.goodreads.com/book/show/81788.Why_We_Get_Sick) by Randy Nesse and George Williams
+
+[Plague Time](https://www.penguinrandomhouse.com/books/47554/plague-time-by-paul-ewald/) by Paul Ewald
+
+[Evolution of Infectious Disease](https://www.amazon.com/Evolution-Infectious-Disease-Paul-Ewald/dp/0195111397) by Paul Ewald
+
+### 
+![]
