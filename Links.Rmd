@@ -1,22 +1,41 @@
 ---
-title: "Links"
+title: "Contributors"
 output: html_document
 ---
+
+<font size="4"> The students listed below have contributed resources so that those who follow in their footsteps may benefit from previous triumphs and mistakes! 
+</font size="4"> 
+
+![](images/wonder.jpg){width=50%}
 <br>
 
-## Google Drive 
-[Google drive](https://drive.google.com/drive/folders/1VQb08giIrpIorq6gPSU0ClqyZaIxup_m?usp=sharing) for all shared files, organized by contributor. 
+## Carmen Hove
+Website Manager | GitHub: carmenhove\
+UCSB tenture: 2015-Present\
+Email: carmenhove@ucsb.edu \
+Comps Topics: Developmental Origins of Human Health & Disease | Human Reproductive Ecology | Human-Pathogen Co-Evolution
+ 
+## Angela Garcia 
+UCSB tenure: 2013-2018\
+Email: garsmol@gmail.com\
+Comps Topics: Stress, Immune Function and Inequality | Evolutionary Medicine/Human Biology | Human Behavioral Ecology/Life History Theory 
 
-## Quick Links to Recommended Books
-[Evolution in Four Dimensions](https://mitpress.mit.edu/books/evolution-four-dimensions) by Eva Jablonka and Marion Lamb
+## Ronnie Bailey-Steinitz
+UCSB tenure: 2016-Present\
+Email: rsteinitz@ucsb.edu\
+Comps Topics: Primate Energetics / Endocrinology | Evolutionary adaptations to seasonal and prolonged nutritional stress | Primate Behavioral & Community Ecology
 
-[The Selfish Gene](https://global.oup.com/academic/product/the-selfish-gene-9780198788607?cc=us&lang=en&) by Richard Dawkins
+## Melanie Martin
+UCSB tenure: 2008-2015\
+Email: martinm7@uw.edu\
+Comps Topics: Biosocial evolution | Culture | Human Behavioral Ecology | Health and Disease | Life History Theory | Human Reproduction
 
-[The Extended Phenotype](https://global.oup.com/academic/product/the-extended-phenotype-9780198788911?q=extended%20phenotype&lang=en&cc=us) by Richard Dawkins
+## Tiffany Pan
+UCSB tenure: 2019-Present (comps taken at UW)\
+Email: tdpan@ucsb.edu\
+Comps Topics: Demographic and Epidemiological Transition | Evolutionary Medicine | Life History Theory | Population Genetics
 
-[Why We Get Sick: The New Science of Darwinian Medicine](https://www.goodreads.com/book/show/81788.Why_We_Get_Sick) by Randy Nesse and George Williams
-
-[Plague Time](https://www.penguinrandomhouse.com/books/47554/plague-time-by-paul-ewald/) by Paul Ewald
-
-[Evolution of Infectious Disease](https://www.amazon.com/Evolution-Infectious-Disease-Paul-Ewald/dp/0195111397) by Paul Ewald
-
+## Amy Anderson
+UCSB tenure: 2015-Present\
+Email: anderson.amy.susan@gmail.com\
+Comps Topics: Host-pathogen co-evolution | Demographic (Neolithic) transition | Developmental Origins and Human Health and Disease

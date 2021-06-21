@@ -1,35 +1,26 @@
 ---
-title: "Advice + Tips"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    collapsed: false
-    number_sections: false
-    toc_depth: 1
-    #code_folding: hide
+title: "Links"
+output: html_document
 ---
+<br>
+![](images/wow.jpg){width=50%}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
+## Google Drive 
+<font size="4">[Google drive](https://drive.google.com/drive/folders/1VQb08giIrpIorq6gPSU0ClqyZaIxup_m?usp=sharing) for all shared files, organized by contributor. </font size="4">
 
-<font size="4"> The UCSB IAS comprehensive exam is the first major hurdle in your graduate career. It's a 3-day writing marathon designed to test your (1) mastery of the available literature on general topics + specializations and (2) ability to critically assess said literature. </font size="4"> 
 <br>
 
-## Start early
+## Quick Links to Recommended Books
+[Evolution in Four Dimensions](https://mitpress.mit.edu/books/evolution-four-dimensions) by Eva Jablonka and Marion Lamb
 
-Start early, work gradually. Build up an outline for general topics and each of your specialization topics (which you should clear with your advisor beforehand). Add relevant info that you may glean from papers/books/lectures/conferences. Keep an organized notebook dedicated to comps. 
+[The Selfish Gene](https://global.oup.com/academic/product/the-selfish-gene-9780198788607?cc=us&lang=en&) by Richard Dawkins
 
-## Use concept maps
+[The Extended Phenotype](https://global.oup.com/academic/product/the-extended-phenotype-9780198788911?q=extended%20phenotype&lang=en&cc=us) by Richard Dawkins
 
-For each topic of study, generate a concept map. Check out Carmen's [blog](https://theinformalscientist.com/concept-maps-and-the-path-to-deep-learning/) on this topic and watch this [Youtube video](https://www.youtube.com/watch?v=8XGQGhli0I0). 
+[Why We Get Sick: The New Science of Darwinian Medicine](https://www.goodreads.com/book/show/81788.Why_We_Get_Sick) by Randy Nesse and George Williams
 
-### 
-![](images/conceptmap2.gif)
+[Plague Time](https://www.penguinrandomhouse.com/books/47554/plague-time-by-paul-ewald/) by Paul Ewald
 
-## Sort PDFs and citations
-
-Keeping PDFs and citations organized, accessible, and tabulated is key. Use [Mendeley](https://www.mendeley.com) or other PDF organizer to sort papers and citations. Install a citation plug-in inside Word, so iserting citations while writing the exam will be fast and easy. 
+[Evolution of Infectious Disease](https://www.amazon.com/Evolution-Infectious-Disease-Paul-Ewald/dp/0195111397) by Paul Ewald
 
 

@@ -2,10 +2,10 @@ name: "UCSB IAS Comps"
 navbar:
   title: "UCSB IAS Comps"
   left:
-    - text: "Contributors"
-      href: index.html
     - text: "Study Tips"
-      href: Journal.html
+      href: index.html
     - text: "Links"
+      href: Journal.html
+    - text: "Contributors"
       href: Links.html
 output_dir: "docs"
