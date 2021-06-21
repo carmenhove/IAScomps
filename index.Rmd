@@ -24,4 +24,4 @@ For each topic of study, generate a concept map. Check out Carmen's [blog](https
 
 Keeping PDFs and citations organized, accessible, and tabulated is key. Use [Mendeley](https://www.mendeley.com) or other PDF organizer to sort papers and citations. Install a citation plug-in inside Word, so iserting citations while writing the exam will be fast and easy. 
 
-
+<font size="2">Website last updated: `r Sys.Date()`.</font size="3">
