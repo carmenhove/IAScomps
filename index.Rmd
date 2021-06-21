@@ -1,31 +1,18 @@
 ---
-title: "UCSB IAS Comps"
+title: "Contributors"
 output: html_document
 ---
-
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-# **Contributors**
-
-The past and present graduate students listed below have contributed resources so that those who follow may benefit from previous triumphs and mistakes! Website last updated: `r Sys.Date()`.
+<font size="4"> Students listed below have contributed resources so that those who follow in their footsteps may benefit from previous triumphs and mistakes! 
+</font size="4">
+<br>
+Website last updated: `r Sys.Date()`.
+</font size="4">
+<br>
 
 ## Carmen Hove
-Website Manager\
+Website Manager | GitHub: carmenhove\
 UCSB tenture: 2015-Present\
 Email: carmenhove@ucsb.edu \
-GitHub: carmenhove\  
 Comps Topics: Developmental Origins of Human Health & Disease | Human Reproductive Ecology | Human-Pathogen Co-Evolution
  
 ## Angela Garcia 

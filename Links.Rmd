@@ -2,21 +2,12 @@
 title: "Links"
 output: html_document
 ---
+<br>
 
-### Condensed Google Drive 
-
+## Google Drive 
 [Google drive](https://drive.google.com/drive/folders/1VQb08giIrpIorq6gPSU0ClqyZaIxup_m?usp=sharing) for all shared files, organized by contributor. 
 
-### Mendeley 
-
-[Mendeley](https://www.mendeley.com) is a free citation and PDF organizer. Create an account and download Mendeley for desktop. See [here](https://www.mendeley.com/guides/using-citation-editor) for how to get started []().
-
-### Concept maps
-
-Use concept maps. Check out Carmen's [blog](https://theinformalscientist.com/concept-maps-and-the-path-to-deep-learning/) on this topic. 
-
-
-### Quick Links to Recommended Books
+## Quick Links to Recommended Books
 [Evolution in Four Dimensions](https://mitpress.mit.edu/books/evolution-four-dimensions) by Eva Jablonka and Marion Lamb
 
 [The Selfish Gene](https://global.oup.com/academic/product/the-selfish-gene-9780198788607?cc=us&lang=en&) by Richard Dawkins
@@ -29,5 +20,3 @@ Use concept maps. Check out Carmen's [blog](https://theinformalscientist.com/con
 
 [Evolution of Infectious Disease](https://www.amazon.com/Evolution-Infectious-Disease-Paul-Ewald/dp/0195111397) by Paul Ewald
 
-### 
-![]

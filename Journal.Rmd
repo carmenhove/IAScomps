@@ -14,12 +14,22 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-The UCSB IAS comprehensive exam, while often seemingly shrowded in mystery, is the first major hurdle you must clear during your graduate career. It's a 3-day writing marathon, during which time you will be asked to exemplify your (1) mastery of the available literature on general topics AND your chosen specializations and (2) ability to critically assess said literature. Here are our tips from experience with comps. 
+<font size="4"> The UCSB IAS comprehensive exam is the first major hurdle in your graduate career. It's a 3-day writing marathon designed to test your (1) mastery of the available literature on general topics + specializations and (2) ability to critically assess said literature. </font size="4"> 
+<br>
 
-# Start early
+## Start early
 
-It's impossible to successfully cram for this exam, so start early and work gradually. Build up an outline for general anthropology and each of your specialization topics (which you should clear with your advisor beforehand). Add relevant info that you may glean from papers/books/lectures/conferences. 
+Start early, work gradually. Build up an outline for general topics and each of your specialization topics (which you should clear with your advisor beforehand). Add relevant info that you may glean from papers/books/lectures/conferences. Keep an organized notebook dedicated to comps. 
 
-# Sort PDFs and citations
+## Use concept maps
 
-Keeping PDFs and citations organized, accessible, and tabulated is a must. Use Mendeley (more info under Links section) or other PDF organizer to sort papers and citations. And make sure you install a citation plug-in inside Word. 
+For each topic of study, generate a concept map. Check out Carmen's [blog](https://theinformalscientist.com/concept-maps-and-the-path-to-deep-learning/) on this topic and watch this [Youtube video](https://www.youtube.com/watch?v=8XGQGhli0I0). 
+
+### 
+![](images/conceptmap2.gif)
+
+## Sort PDFs and citations
+
+Keeping PDFs and citations organized, accessible, and tabulated is key. Use [Mendeley](https://www.mendeley.com) or other PDF organizer to sort papers and citations. Install a citation plug-in inside Word, so iserting citations while writing the exam will be fast and easy. 
+
+
