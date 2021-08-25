@@ -2,7 +2,7 @@
 title: "Study Tips"
 output: html_document
 ---
-<font size="4"> The UCSB IAS comprehensive exam is the first major hurdle in your graduate career. It's a 3-day writing marathon designed to test your (1) mastery of the available literature on general topics + specializations and (2) ability to critically assess said literature. </font size="4"> 
+<font size="4"> The UCSB IAS comprehensive exam is the FIRST major hurdle in your graduate career. It's a 3-day writing marathon designed to test your (1) mastery of the available literature on general topics + specializations and (2) ability to critically assess said literature. </font size="4"> 
 <br>
 
 ### 
