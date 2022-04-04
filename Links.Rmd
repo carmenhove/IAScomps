@@ -9,7 +9,7 @@ output: html_document
 ![](images/wonder.jpg){width=50%}
 <br>
 
-## Carmen Hove
+## Carmen Hové
 Website Manager | GitHub: carmenhove\
 UCSB tenture: 2015-2022\
 Email: hove.cm@gmail.com \
