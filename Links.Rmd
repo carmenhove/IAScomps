@@ -11,8 +11,8 @@ output: html_document
 
 ## Carmen Hove
 Website Manager | GitHub: carmenhove\
-UCSB tenture: 2015-Present\
-Email: carmenhove@ucsb.edu \
+UCSB tenture: 2015-2022\
+Email: hove.cm@gmail.com \
 Comps Topics: Developmental Origins of Human Health & Disease | Human Reproductive Ecology | Human-Pathogen Co-Evolution
  
 ## Angela Garcia 
